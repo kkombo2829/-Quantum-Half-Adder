@@ -1,1 +1,1 @@
-# -Quantum-Half-Adder
+# Quantum-Half-Adder
